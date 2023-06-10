@@ -38,18 +38,18 @@ The app can be run by downloading this repo and running `streamlit run hotdog.py
 ## Examples
 
 ### Correctly Predicted Hot Dog 🌭
-![Correct Hot Dog](./images/correcthot)
+![Correct Hot Dog](./images/correcthot.png)
 Image sourced from test set
 
 ### Correctly Predicted Not Hot Dog 🐹
-![Correct Not Hot Dog](./images/correctnothot)
+![Correct Not Hot Dog](./images/correctnothot.png)
 Image sourced from test set
 
 ### Incorrectly Predicted Hot Dog 🤨
-![Incorrect Hot Dog](./images/incorrecthotdog) 
+![Incorrect Hot Dog](./images/incorrecthotdog.png) 
 Image sourced from Slack
 
 ### Sadly, Snapchat's Dancing Hot Dog is Not Given Proper Recognition 😔
-![Felt Cute](./images/feltcutenothot)
+![Felt Cute](./images/feltcutenothot.png)
 Image sourced from [here](https://i.insider.com/5964ffddd9fccdb1278b5739?width=1000&format=jpeg&auto=webp) 
 
